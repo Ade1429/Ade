@@ -164,7 +164,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Project 1 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <img src="https://placehold.co/600x400/e0e7ff/4338ca?text=Project+![image](https://github.com/user-attachments/assets/8fe6acf7-dc6d-4b6b-a253-d8d35c861c03)
+                    <img src="https://placehold.co/600x400/e0e7ff/4338ca?text=Project+![image](https://github.com/user-attachments/assets/8fe6acf7-dc6d-4b6b-a253-d8d35c861c03))
 +1" alt="Project 1" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Automated Lead Routing System</h3>
