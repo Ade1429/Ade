@@ -39,7 +39,7 @@
     <header class="bg-white shadow-sm py-4 sticky top-0 z-50">
         <nav class="container mx-auto px-4 flex justify-between items-center">
             <a href="#" class="text-2xl font-bold text-indigo-700 rounded-lg p-2 hover:bg-indigo-50 transition-colors">
-                Hey, I'm Adeyinka Aderibigbe-Yusuf
+                [Adeyinka Aderibigbe-Yusuf]
             </a>
             <div class="hidden md:flex space-x-6">
                 <a href="#about" class="text-gray-600 hover:text-indigo-700 font-medium transition-colors">About</a>
@@ -84,10 +84,7 @@
             <h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">About Me</h2>
             <div class="flex flex-col md:flex-row items-center md:space-x-8">
                 <div class="md:w-1/3 mb-8 md:mb-0">
-                    <!-- Profile Photo - Updated with your uploaded image -->
-                    <img src="uploaded:updated_image.jpg-77f75e3c-bdca-4e37-8da1-b56f68a1b040"
-                         alt="Adeyinka Aderibigbe-Yusuf Profile Photo"
-                         class="rounded-full shadow-xl mx-auto w-48 h-48 object-cover border-4 border-indigo-200">
+                    <img src="https://imgur.com/a/afVPrXV">
                 </div>
                 <div class="md:w-2/3 text-lg leading-relaxed text-gray-700 text-center md:text-left">
                     <p class="mb-4">
@@ -167,8 +164,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Project 1 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <!-- Project Image 1 - Replace this URL with your actual project image URL -->
-                    <img src="https://placehold.co/600x400/ADD8E6/000?text=Lead+Routing+Project" alt="Automated Lead Routing System" class="w-full h-48 object-cover">
+                    <img src="https://placehold.co/600x400/e0e7ff/4338ca?text=Project+Image+1" alt="Project 1" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Automated Lead Routing System</h3>
                         <p class="text-gray-600 text-sm mb-4">Designed and implemented a complex Salesforce Flow to automatically assign leads to sales representatives based on specific criteria, reducing manual effort by 70%.</p>
@@ -177,8 +173,7 @@
                 </div>
                 <!-- Project 2 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <!-- Project Image 2 - Replace this URL with your actual project image URL -->
-                    <img src="https://placehold.co/600x400/F08080/000?text=Contract+Management" alt="Custom Object for Contract Management" class="w-full h-48 object-cover">
+                    <img src="https://placehold.co/600x400/ffe4e6/dc2626?text=Project+Image+2" alt="Project 2" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Custom Object for Contract Management</h3>
                         <p class="text-gray-600 text-sm mb-4">Developed a custom object and related fields, page layouts, and reports for efficient tracking and management of customer contracts within Salesforce.</p>
@@ -187,8 +182,7 @@
                 </div>
                 <!-- Project 3 -->
                 <div class="project-card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200">
-                    <!-- Project Image 3 - Replace this URL with your actual project image URL -->
-                    <img src="https://placehold.co/600x400/90EE90/000?text=Sales+Dashboard" alt="Enhanced Sales Performance Dashboard" class="w-full h-48 object-cover">
+                    <img src="https://placehold.co/600x400/dbeafe/2563eb?text=Project+Image+3" alt="Project 3" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2 text-indigo-700">Enhanced Sales Performance Dashboard</h3>
                         <p class="text-gray-600 text-sm mb-4">Created a comprehensive set of Salesforce reports and dashboards providing real-time insights into sales pipeline, forecasting, and team performance metrics.</p>
@@ -267,7 +261,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8 text-center">
         <div class="container mx-auto px-4">
-            <p>&copy; 2025 Adeyinka Aderibigbe-Yusuf. All rights reserved.</p>
+            <p>&copy; 2025 [Adeyinka Aderibigbe-Yusuf]. All rights reserved.</p>
             <p class="text-sm mt-2">Built with <a href="https://tailwindcss.com/" target="_blank" class="text-indigo-400 hover:underline">Tailwind CSS</a></p>
         </div>
     </footer>
