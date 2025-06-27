@@ -84,8 +84,8 @@
             <h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">About Me</h2>
             <div class="flex flex-col md:flex-row items-center md:space-x-8">
                 <div class="md:w-1/3 mb-8 md:mb-0">
-                    <!-- Your Profile Photo - Updated with the provided URL -->
-                    <img src="https://www.dropbox.com/scl/fi/qwo7css31ldn6pq4w1ucg/file_000000001ce06230b8af93183b13dd1a-1.png?rlkey=7appvh4eb3mutswo7ivltom8w&st=vg6o061l&dl=0" alt="Adeyinka Aderibigbe-Yusuf Profile Photo" class="rounded-full shadow-xl mx-auto w-48 h-48 object-cover border-4 border-indigo-200">
+                    <!-- Your Profile Photo - Updated with the corrected Dropbox URL -->
+                    <img src="https://www.dropbox.com/scl/fi/qwo7css31ldn6pq4w1ucg/file_000000001ce06230b8af93183b13dd1a-1.png?rlkey=7appvh4eb3mutswo7ivltom8w&raw=1" alt="Adeyinka Aderibigbe-Yusuf Profile Photo" class="rounded-full shadow-xl mx-auto w-48 h-48 object-cover border-4 border-indigo-200">
                 </div>
                 <div class="md:w-2/3 text-lg leading-relaxed text-gray-700 text-center md:text-left">
                     <p class="mb-4">
