@@ -84,13 +84,10 @@
             <h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">About Me</h2>
             <div class="flex flex-col md:flex-row items-center md:space-x-8">
                 <div class="md:w-1/3 mb-8 md:mb-0">
-                    <!-- IMPORTANT: Replace "YOUR_DIRECT_IMAGE_URL_HERE" with your actual direct image URL. -->
-                    <!-- This URL must end in .png, .jpg, or .gif for the image to display. -->
-                    <!-- If your image fails to load, a placeholder will be shown. -->
-                    <img src="YOUR_DIRECT_IMAGE_URL_HERE"
+                    <!-- Profile Photo - Updated with your uploaded image -->
+                    <img src="uploaded:updated_image.jpg-77f75e3c-bdca-4e37-8da1-b56f68a1b040"
                          alt="Adeyinka Aderibigbe-Yusuf Profile Photo"
-                         class="rounded-full shadow-xl mx-auto w-48 h-48 object-cover border-4 border-indigo-200"
-                         onerror="this.onerror=null;this.src='https://placehold.co/300x300/e0e7ff/4338ca?text=Your+Photo';">
+                         class="rounded-full shadow-xl mx-auto w-48 h-48 object-cover border-4 border-indigo-200">
                 </div>
                 <div class="md:w-2/3 text-lg leading-relaxed text-gray-700 text-center md:text-left">
                     <p class="mb-4">
